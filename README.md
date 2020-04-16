@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages 1
+## Welcome to GitHub Pages 
+# Este es un clon del repositorio anterior
 
 
 Este es un cambio *solo para mostras* cómo se vería **Una actualización** 
